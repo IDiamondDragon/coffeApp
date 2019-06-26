@@ -1,6 +1,5 @@
 {
   "name": "My Coffe App - the best app for coffee lovers",
-  "start_url": "/",
   "orientation": "any",
   "scope": "/",
   "display": "standalone"
