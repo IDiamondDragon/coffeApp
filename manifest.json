@@ -1,5 +1,5 @@
 {
   "name": "My Coffe App - the best app for coffee lovers",
   "orientation": "any",
-  "display": "standalone"
+  "display": "browser"
 }
