@@ -2,6 +2,6 @@
   "name": "My Coffe App - the best app for coffee lovers",
   "start_url": "https://idiamonddragon.github.io/coffeApp/",
   "orientation": "any",
-  "scope": "/",
+  "scope": "coffeApp",
   "display": "browser"
 }
